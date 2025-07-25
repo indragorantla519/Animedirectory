@@ -1,0 +1,26 @@
+print("Hey there,")
+print("I am Full stack developer!")
+print()
+
+#2
+print(''' variable is used to store data in the memory ''')
+variable = 5
+print(''' Taking a variable with name "variable" and its value is 5''')
+print(variable)
+print()
+
+#3
+print("Hello")
+print("Yashwanth")
+print()
+#4
+#using \n  
+print("Hello\nguys")
+#using normal print 
+print("Hello guys")
+print()
+
+#5
+print('\tRaja Shekar') 
+print('\tPavan surya')
+print()
